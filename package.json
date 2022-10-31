@@ -1,0 +1,26 @@
+{
+	"name": "rationalacoustics-smaart4",
+	"version": "1.0.0",
+	"description": "Rational Acoustics Smaart(API V4) for Companion.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Todd Murphy <murphytodd4@gmail.com>",
+	"license": "MIT",
+	"keywords": [
+		"Audio"
+	],
+	"manufacturer": "Rational Acoustics",
+	"product": "Smaart API V4",
+	"shortname": "Smaart-V4",
+	"homepage": "https://github.com/bitfocus/companion-module-rationalacoustics-smaart4#readme",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-rationalacoustics-smaart4/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-rationalacoustics-smaart4.git"
+	},
+	"api_version": "1.0.0"
+}
